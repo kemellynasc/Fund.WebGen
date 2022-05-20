@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+    background-color: aquamarine;
+ }
+ .p1{
+
+    text-align: left;
+    -moz-text-decoration-color: blue;
+ }
+
+ .p2{
+     text-align: right;
+ }
